@@ -1,0 +1,14 @@
+<environment>
+    <parameter>
+        <key>Browser</key>
+        <value>Chrome</value>
+    </parameter>
+    <parameter>
+        <key>Browser.Version</key>
+        <value>98</value>
+    </parameter>
+    <parameter>
+        <key>Testing</key>
+        <value>Selenium Python</value>
+    </parameter>
+</environment>
